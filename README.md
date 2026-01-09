@@ -41,7 +41,7 @@ Actively involved in module-level development
 ## 📬 Contact
 - 📧 Email: panjaajaykumar518@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/panja-ajay-kumar-264b812a7
-- 🖥️ [GitHub]( https://github.com/panjaajaykumar)
+- 🖥️ GitHub:( https://github.com/panjaajaykumar)
 
 ---
 
