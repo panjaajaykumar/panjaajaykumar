@@ -24,7 +24,7 @@ Designed and implemented code using Machine Learning algorithms
 - Designed data-sharing protocols for inter-vehicle communication (speed, direction, obstacle proximity)
 ---
 ## 💼 Internship Experience
-🐍 Python Development Intern – Cognifyz Technologies
+**🐍 Python Development Intern** – Cognifyz Technologies
 Feb 24 – Mar 24, 2025
 
 - Built foundational projects involving logic building, file handling, and data validation
@@ -32,11 +32,11 @@ Actively involved in module-level development
 - Strengthened real-world Python programming skills
 ---
 ## 📚 Certifications
-- 🏅 Python Development Internship Certificate – Cognifyz Technologies
+- **🏅 Python Development Internship Certificate** – Cognifyz Technologies
 
-- 🏅 HTML & CSS Certification – thingQbator
+- **🏅 HTML & CSS Certification** – thingQbator
 
-- 🏅 TCS iON Career Edge –           Young Professional
+- **🏅 TCS iON Career Edge** –    Young Professional
 ---
 ## 📬 Contact
 - 📧 Email: panjaajaykumar518@gmail.com
